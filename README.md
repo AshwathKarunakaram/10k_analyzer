@@ -8,7 +8,7 @@ Python is chosen as the programming language due to its versatility, extensive l
 
 # Libraries Used
 
-edgartools
+<ins>edgartools</ins>
 
 Purpose: Used for scraping SEC filings from the EDGAR database. The edgar library simplifies the process of fetching Form 10-K filings, making it convenient for data acquisition.
 
