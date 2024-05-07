@@ -1,5 +1,8 @@
 # 10k_analyzer
 Sentiment Analysis and Stock Price Visualization
+
+Short Demo: https://youtu.be/Xf3764Lb5lo
+
 # Overview
 This project aims to provide sentiment analysis on the Management's Discussion and Analysis (MD&A) section extracted from the SEC filings (Form 10-K) of two companies, Apple Inc. (AAPL) and NVIDIA Corporation (NVDA), spanning from 1995 to 2023. Additionally, it visualizes the sentiment trends over time and correlates them with the respective companies' stock prices.
 
