@@ -38,6 +38,9 @@ panel
 
 Purpose: Creates interactive web applications. Leveraged to develop a simple and interactive dashboard for displaying sentiment analysis and stock price visualizations.
 
+# Challenges
+Time: The LLM took a long time to process the text and sometimes it responded with invalid data. This problem was solved with engineering better and more specific prompts, and condensing the text as much as possible.
+
 # License
 This project is licensed under the MIT License.
 
