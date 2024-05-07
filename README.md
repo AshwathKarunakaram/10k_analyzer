@@ -4,7 +4,7 @@ Sentiment Analysis and Stock Price Visualization
 Short Demo: https://youtu.be/Xf3764Lb5lo
 
 # Overview
-This project aims to provide sentiment analysis on the Management's Discussion and Analysis (MD&A) section extracted from the SEC filings (Form 10-K) of two companies, Apple Inc. (AAPL) and NVIDIA Corporation (NVDA), spanning from 1995 to 2023. Additionally, it visualizes the sentiment trends over time and correlates them with the respective companies' stock prices.
+This project aims to provide sentiment analysis on the Management's Discussion and Analysis (MD&A) section extracted from the SEC filings (Form 10-K) of two companies, Apple Inc. (AAPL) and NVIDIA Corporation (NVDA), spanning from 1995 to 2023. I used the MD&A section specifically because it represents the persepective of the company's management. Additionally, it visualizes the sentiment trends over time and correlates them with the respective companies' stock prices. 
 
 # Tech Stack
 Python is chosen as the programming language due to its versatility, extensive libraries for data analysis, natural language processing (NLP), and data visualization.
